@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f3f6fa;
+  color: #183153;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+h1 {
+  color: #0756a8;
+  font-size: 42px;
+}
+
+p {
+  font-size: 18px;
+}
